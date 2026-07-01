@@ -6,3 +6,4 @@ mlruns/
 models/
 .dvc/cache/
 .ipynb_checkpoints/
+/metrics.json
