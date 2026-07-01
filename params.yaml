@@ -1,7 +1,8 @@
-model:
-  random_state: 42
-  test_size: 0.2
+data:
+  raw_data_path: data/raw/loan.csv
 
-training:
+model:
+  test_size: 0.2
+  random_state: 42
   n_estimators: 100
   max_depth: 10
